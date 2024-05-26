@@ -14,7 +14,7 @@
     height: 511px;
     width: 538px;
     padding: 50px 40px;
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/settings.png');
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/settings.png');
     display: block;
     position: absolute;
     left: 375px;
@@ -117,51 +117,51 @@
 }
 
 .quest-type.combat {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_combat_inactive.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_combat_inactive.jpg')
 }
 
 .quest-type.combat.active {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_combat_active.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_combat_active.jpg')
 }
 
 .quest-type.arena {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_arena_inactive.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_arena_inactive.jpg')
 }
 
 .quest-type.arena.active {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_arena_active.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_arena_active.jpg')
 }
 
 .quest-type.circus {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_grouparena_inactive.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_grouparena_inactive.jpg')
 }
 
 .quest-type.circus.active {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_grouparena_active.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_grouparena_active.jpg')
 }
 
 .quest-type.expedition {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_expedition_inactive.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_expedition_inactive.jpg')
 }
 
 .quest-type.expedition.active {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_expedition_active.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_expedition_active.jpg')
 }
 
 .quest-type.dungeon {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_dungeon_inactive.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_dungeon_inactive.jpg')
 }
 
 .quest-type.dungeon.active {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_dungeon_active.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_dungeon_active.jpg')
 }
 
 .quest-type.items {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_items_inactive.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_items_inactive.jpg')
 }
 
 .quest-type.items.active {
-    background-image: url('https://raw.githubusercontent.com/ebodziony/gladiatus-script/master/assets/icon_items_active.jpg')
+    background-image: url('https://raw.githubusercontent.com/smooke4fun/4glad/master/assets/icon_items_active.jpg')
 }
 
 #overlayBack {
